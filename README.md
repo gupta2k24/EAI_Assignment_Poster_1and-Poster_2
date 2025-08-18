@@ -2,5 +2,5 @@
 
 ## Poster 1
 Space_Craft_Identifier
-## Poster 1
+## Poster 2
 Moon_Phases_Identifier
